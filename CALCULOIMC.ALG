@@ -2,7 +2,7 @@ Algoritmo "calculoIMC"
 // Disciplina  :  [Lógica e programação visual]
 // Professor   : Dante
 // Descrição   : Calcular imc
-// Autor(a)    : Carmem Karini Leite RA:418202288
+// Autor(a)    : Carmem
 // Data atual  : 05/04/2020
 Var
 // Seção de Declarações das variáveis 
